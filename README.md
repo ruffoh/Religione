@@ -1,1 +1,1 @@
-[link](ruffoh.github.io/Religione/index.html)
+[link](https://ruffoh.github.io/Religione/)
